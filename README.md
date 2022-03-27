@@ -1,14 +1,25 @@
 <h1 align="center"> Simple Yii2 App that gets Temperature data from a XML file (containing city name and temperature value) , inserts them into a database and displays them in a graph using the Chart.Js library. </h1>
 <p> An Example of the Temperature.xml file : </p>
-![Screenshot_6](https://user-images.githubusercontent.com/101662332/160294404-22d465b4-673f-41da-9cc7-2661c5c3ba9a.png)
-<p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
-    </a>
-    <h1 align="center">Yii 2 Basic Project Template</h1>
-    <br>
-</p>
 
+![Screenshot_6](https://user-images.githubusercontent.com/101662332/160294706-34c3b5ce-0186-4005-97cd-7d3bce117b4a.png)
+
+<p> We insert this data to the database , for each city the mean of temperatures listed in the XML file is inserted to the corresponded row/column. Finally , we display the output using the Chart.Js library. Varius types are supported , for example i will show you what the line and bar types look like. </p>
+
+<h1>Line type :</h1>
+
+![Screenshot_7](https://user-images.githubusercontent.com/101662332/160294752-871e63d5-ad2e-4e8b-8d8c-df0c69afc931.png)
+
+<h1>Bar type :</h1>
+
+![Screenshot_6](https://user-images.githubusercontent.com/101662332/160295091-8c693f1e-52e5-49ae-b431-59a9d4b9f02c.png)
+
+
+
+
+
+
+
+<h> //Yii <br> </h>
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
