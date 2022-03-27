@@ -5,7 +5,7 @@
     <img src="" width="220" height="240" />
 </p>
 
-    ![Screenshot_3](https://user-images.githubusercontent.com/101662332/160294309-2c8febda-9842-48e7-afcd-3ece7adca94a.png)
+![Screenshot_4](https://user-images.githubusercontent.com/101662332/160294365-8df23c4e-0789-40fc-adb7-38719996af25.png)
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
