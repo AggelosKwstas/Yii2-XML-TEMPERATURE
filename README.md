@@ -1,3 +1,12 @@
+<h1 align="center"> Simple Yii2 App that gets Temperature data from a XML file (containing city name and temperature value) , inserts them into a database and displays them in a graph using the Chart.Js library. </h1>
+<p> An Example of the Temperature.xml file : </p>
+
+<p>
+    <img src="" width="220" height="240" />
+</p>
+
+    ![Screenshot_3](https://user-images.githubusercontent.com/101662332/160294309-2c8febda-9842-48e7-afcd-3ece7adca94a.png)
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
