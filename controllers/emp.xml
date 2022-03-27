@@ -1,0 +1,31 @@
+
+<records>
+<record>
+    <city>Athens</city>
+    <temperature>30</temperature>
+    <temperature>40</temperature>
+    <temperature>50</temperature>
+    <temperature>60</temperature>
+</record>
+    <record>
+        <city>Patra</city>
+        <temperature>10</temperature>
+        <temperature>10</temperature>
+        <temperature>10</temperature>
+        <temperature>10</temperature>
+    </record>
+    <record>
+        <city>Arta</city>
+        <temperature>12</temperature>
+        <temperature>54</temperature>
+        <temperature>43</temperature>
+        <temperature>45</temperature>
+    </record>
+    <record>
+        <city>Ioannina</city>
+        <temperature>54</temperature>
+        <temperature>34</temperature>
+        <temperature>43</temperature>
+        <temperature>45</temperature>
+    </record>
+</records>
